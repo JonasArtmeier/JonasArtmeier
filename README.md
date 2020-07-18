@@ -1,5 +1,5 @@
 
-# Jonas Artmeier - passionate about IT Strategy and applikation development
+# Jonas Artmeier - passionate about IT Strategy and Application Development
 
 
 Hi 👋 I'm Jonas, an Austrian-German IT Consultant who developed a passion for coding.
